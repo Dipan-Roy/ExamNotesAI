@@ -4,6 +4,8 @@ ExamNotes AI is a full-stack web application designed to help students and learn
 
 ---
 
+Live Website : https://examnotesai-a329.onrender.com
+
 ## Demo & Visuals
 
 The application interface features a responsive dashboard built with modern glassmorphism design principles, interactive animations, and visual rendering modules.
